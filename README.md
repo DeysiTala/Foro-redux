@@ -1,0 +1,2 @@
+# Foro-redux
+react-redux
